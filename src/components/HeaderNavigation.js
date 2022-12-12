@@ -1,5 +1,4 @@
 // components: BlogPostItem, BlogPostItemList,
-import App from "../App"
 
 export default function HeaderNavigation(props){
     return(

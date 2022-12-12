@@ -1,4 +1,3 @@
-import App from "../App"
 
 export default function Header(props){
     return (
@@ -6,7 +5,7 @@ export default function Header(props){
         <h1 className='title'>Sartre's List</h1>
 
         <h2 className='subtitle'>Better-Dressed People</h2>
-        
+
       </header>
     )
 }
